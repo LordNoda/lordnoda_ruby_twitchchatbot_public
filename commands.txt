@@ -1,0 +1,10 @@
+# Lines beginning with # are ignored
+# Format is Command | Response Text
+# {user} to insert the user (case sensitive)
+
+# Format is Command | Response Text
+# {user} to insert the user (case sensitive)
+
+!ex | ex1
+!ex2 | ex2 {user}
+!ex3 | ex3 {user}
